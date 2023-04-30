@@ -1,3 +1,7 @@
+#Hi this is my first clone project that I have created watching some youtube tutorials and reading documentations from the net.Hope you like this !! 😁
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
